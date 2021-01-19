@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   background(0, g, b);
-  
+
   g = map(mouseX, 0, 600, 0, 255);
   b = map(mouseX, 600, 0, 255, 0);
 
