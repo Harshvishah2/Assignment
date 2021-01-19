@@ -1,5 +1,5 @@
-var g = 100;
-var b = 255;
+let g = 100;
+let b = 255;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
