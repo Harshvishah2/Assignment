@@ -3,5 +3,6 @@ function setup() {
   }
   
   function draw() {
-    background(0,0,255);
+    background(0,200,255);
+    rect(mouseX, mouseY, 100,100);
   }
