@@ -3,7 +3,7 @@ let xoff=0.0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   
-  alert("This is the statement for the piece titled: Project1. It is an effect that looks like a butterfly. It comprises of classic blue colour lines on loop. There are ellipses behind the lines which create an illusion of stars.They sort of twinkle as you move your cursor.Hold on your cursor for 3-4 seconds at one place to see the effect happens. The background has a dissapearing effect to it.")
+  alert("This is the statement for the piece titled: Snickerdoodle. It is an effect that looks like a butterfly. It comprises of classic blue colour lines on loop. There are ellipses behind the lines which create an illusion of stars.They sort of twinkle as you move your cursor.Hold on your cursor for 3-4 seconds at one place to see the effect happens. The background has a dissapearing effect to it.")
 }
 
 function draw() {
